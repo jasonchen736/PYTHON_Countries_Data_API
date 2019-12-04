@@ -8,6 +8,8 @@ pip install -r requirements.txt
 
 # PROJECT DESCRIPTION
 
+NOTE - I've done the below with the exception of a CLI deliverable, it's converted to an API using Flask
+
 # Consume a REST API
 
 This project is meant to examine your ability to call 3rd party data services
